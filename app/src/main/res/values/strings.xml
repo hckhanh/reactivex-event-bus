@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">DemoReactiveXEventBus</string>
+  <string name="action_settings">Settings</string>
+  <string name="move_to_new_screen">Move to new screen</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="text_fragment_other">This is another fragment is called by using RxEventBus</string>
+</resources>
